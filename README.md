@@ -9,3 +9,5 @@ Chrome extension to warn and remove bookmarks that are added that contain javasc
 5. Select the Blockmark folder
 
 # Demo Video
+https://github.com/AndrewMohawk/Blockmark/assets/1465995/5dc8f790-7a22-42f1-bf2b-7b8a45b9d6e1
+
